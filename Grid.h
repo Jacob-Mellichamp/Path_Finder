@@ -15,6 +15,8 @@
 	 - stopNode : node to stop  at/ finish node.
  */
 
+
+include "node.h";
 using namespace std;
 
 class grid {
